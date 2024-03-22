@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: "Lexend", sans-serif;
+}
+
+.banner-btn1{
+    background-color: #0be58a;
+    padding: 20px 30px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.banner-btn2{
+    padding: 20px 30px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    border: 1px solid white;
+}

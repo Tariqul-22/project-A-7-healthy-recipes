@@ -1,0 +1,57 @@
+[
+    {
+      "RecipeImage": "https://i.ibb.co/T4mGpDQ/chicken-fry.jpg",
+      "RecipeID": "R001",
+      "RecipeName": "Spicy Chicken Stir-Fry",
+      "Description": "A fiery blend of tender chicken and crisp vegetables, stir-fried to perfection.",
+      "Ingredients": ["550 g chicken", "120ml soy sauce", "200 g basil leaf"],
+      "PreparingTime": 25,
+      "Calories": 350
+    },
+    {
+      "RecipeImage": "https://i.ibb.co/wdCpznz/Mushroom-Risotto.jpg",
+      "RecipeID": "R002",
+      "RecipeName": "Creamy Mushroom",
+      "Description": "Rich and creamy Italian classic with earthy mushroom flavors.",
+      "Ingredients": ["550g Arborio rice", "350g Mushrooms", "1 Onion", "15g Garlic"],
+      "PreparingTime": 40,
+      "Calories": 420
+    },
+    {
+      "RecipeImage": "https://i.ibb.co/ZBtqsV5/Grilled-Salmon.jpg",
+      "RecipeID": "R003",
+      "RecipeName": "Salmon with Lemon-Dill",
+      "Description": "Succulent salmon fillets grilled to perfection, served with a refreshing lemon-dill sauce.",
+      "Ingredients": ["280g Salmon fillets", "150g Lemon", "25g Fresh dill", "10ml Olive oil"],
+      "PreparingTime": 30,
+      "Calories": 280
+    },
+    {
+      "RecipeImage": "https://i.ibb.co/NFxGB2B/Salad.jpg",
+      "RecipeID": "R004",
+      "RecipeName": "Veggie Quinoa Salad",
+      "Description": "Nutritious and colorful salad featuring protein-rich quinoa and fresh veggies.",
+      "Ingredients": ["280g Quinoa", "100g Cucumber", "50g Cherry tomatoes", "1 Red onion"],
+      "PreparingTime": 20,
+      "Calories": 290
+    },
+    {
+      "RecipeImage": "https://i.ibb.co/s9gwrFf/Beef.jpg",
+      "RecipeID": "R005",
+      "RecipeName": "Classic Beef Lasagna",
+      "Description": "Layers of hearty beef, cheese, and pasta, baked to perfection.",
+      "Ingredients": ["180g Lasagna noodles", "150g Ground beef", "20g Tomato sauce", "2 Onion"],
+      "PreparingTime": 75,
+      "Calories": 480
+    },
+    {
+      "RecipeImage": "https://i.ibb.co/fDvT7Lx/Salad2.jpg",
+      "RecipeID": "R006",
+      "RecipeName": "Mediter ranean Salad",
+      "Description": "A refreshing salad packed with Mediterranean flavors and protein-rich chickpeas.",
+      "Ingredients": ["120g Chickpeas", "100g Cherry tomatoes", "80g Cucumber", "10g Red onion","150 ml Lemon juice"],
+      "PreparingTime": 15,
+      "Calories": 250
+    }
+  ]
+  
