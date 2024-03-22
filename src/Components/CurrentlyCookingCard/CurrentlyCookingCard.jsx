@@ -14,6 +14,7 @@ const CurrentlyCookingCard = ({currentlyCookingCard, index}) => {
 
 CurrentlyCookingCard.propTypes = {
     currentlyCookingCard: PropTypes.object,
+    index: PropTypes.number,
   };
 
 export default CurrentlyCookingCard;

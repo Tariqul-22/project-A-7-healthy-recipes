@@ -17,6 +17,7 @@ const WantToCookCard = ({wantToCookCard, handleCurrentlyCooking, index}) => {
 WantToCookCard.propTypes = {
     wantToCookCard: PropTypes.object,
     handleCurrentlyCooking: PropTypes.func,
+    index: PropTypes.number,
   };
 
 export default WantToCookCard;
